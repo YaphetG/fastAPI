@@ -15,5 +15,5 @@ WORKDIR /home/code/fastAPI
 
 USER 1000
 
-ENTRYPOINT ['python', 'src/api.py']
+ENTRYPOINT ["python", "src/api.py"]
 
